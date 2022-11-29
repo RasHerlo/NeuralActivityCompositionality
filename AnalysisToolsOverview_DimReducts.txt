@@ -1,13 +1,55 @@
 
 Dimensionality Reduction Algorithms:
 
+
+OVERVIEW REVIEWED IN:
+- Cunningham et Yu, 2014, Nat Neurosci.
+- https://www.nature.com/articles/nn.3776
+
+COMPARATIVE REVIEW WITH REGARD TO SEPARATION:
+- https://arxiv.org/ftp/arxiv/papers/1710/1710.04484.pdf
+
+
 #1 PCA
 
-#2 GPFA
+- Standard PCA
 
-#3 NMF
+#2 GPFA (Gaussian process factor analysis)
 
-#4 t-SNE
+- Yu, Cunningham et al. 2009, j.neurophys
+- https://journals.physiology.org/doi/full/10.1152/jn.90941.2008
+
+BYRON YU's CODES FOR MATLAB:
+- https://users.ece.cmu.edu/~byronyu/software.shtml
+
+"Byron Yu's Matlab code for factor analysis"
+- https://github.com/mobeets/fa
+
+"Python implementation of Gaussian Process Factor Analysis"
+- https://github.com/harvineet/py-gpfa
+
+#3 NMF (non-negative matrix factorization)
+- https://www.nature.com/articles/44565
+
+[shymkivy/ensemble_analysis_YS]
+extracting ensembles with NMF
+- https://github.com/shymkivy/ensemble_analysis_YS
+
+NMF implementation based on Lee and Seung's multiplicative rules.
+- https://github.com/gionuno/nonnegative_matrix_factorization
+
+NMFLibrary: Non-negative Matrix Factorization (NMF) Library: Version 2.1
+- https://github.com/hiroyuki-kasai/NMFLibrary
+
+#4 t-SNE (t-distributed stochastic neighbor embedding)
+
+Original SNE-paper:
+- https://cs.nyu.edu/~roweis/papers/sne_final.pdf
+
+Modified t-SNE paper:
+- https://jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
+
+- Scikit-learn, a popular machine learning toolkit in python implements t-SNE with both exact solutions and the Barnes-Hut approximation
 
 #5 cvPCA 
 
@@ -42,7 +84,8 @@ https://github.com/MouseLand/stringer-pachitariu-et-al-2018b/blob/79850dba7a4e66
   - Forked: https://github.com/RasHerlo/rastermap.git
 
 - SVCA method (see Methods + Figure 1I):
-  - 
+  - [Shared variance component analysis]
+  - "The SVCA method gives an asymptotically unbiased lower-bound estimate for the amount of a neural population’s variance reliably encoding a latent signal."
 
 
 
