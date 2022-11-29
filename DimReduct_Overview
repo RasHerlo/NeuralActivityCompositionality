@@ -14,7 +14,7 @@ Dimensionality Reduction Algorithms:
 - Stringer et al. 2019, Nature
 - https://www.nature.com/articles/s41586-019-1346-5
 
-- cvPCA method:
+- cvPCA method (see figure 2):
 
 "The cvPCA method is fully described in Supplementary Discussion 1, characterized mathematically in Supplementary Discussion 1.1 and 3.6, 
 and analysed in simulation in Extended Data Fig. 5. 
@@ -22,5 +22,14 @@ and analysed in simulation in Extended Data Fig. 5.
 In brief, the difference between this approach and standard PCA (for example, see previous studies47,48) 
 is that it compares the activity on training and test repeats to obtain an estimate of the stimulus-related (‘signal’) variance, 
 discounting variance from trial-to-trial variability (‘noise’)."
+
+In "https://github.com/MouseLand/stringer-pachitariu-et-al-2018b/blob/master/process_data.m":
+
+% compute cross-validated PCs and signal variance and SNR and responsiveness
+% saves in matroot/eigs_and_stats_all.mat
+statsShuffledPCA(dataroot, matroot);
+
+https://github.com/MouseLand/stringer-pachitariu-et-al-2018b/blob/79850dba7a4e66e213245105c00131f4d6c84e03/powerlaws/statsShuffledPCA.m
+
 
 #6 SVCA
