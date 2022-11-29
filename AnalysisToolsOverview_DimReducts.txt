@@ -31,5 +31,19 @@ statsShuffledPCA(dataroot, matroot);
 
 https://github.com/MouseLand/stringer-pachitariu-et-al-2018b/blob/79850dba7a4e66e213245105c00131f4d6c84e03/powerlaws/statsShuffledPCA.m
 
+#6 RASTERMAP + SVCA
 
-#6 SVCA
+- Stringer et al. 2019, Science
+- https://www.science.org/doi/10.1126/science.aav7893?cookieSet=1
+
+- Rastermap (see Methods + Figure 1)
+  - https://github.com/MouseLand/RasterMap
+  - Language: Python3 OR MatLab2016a
+  - Forked: https://github.com/RasHerlo/rastermap.git
+
+- SVCA method (see Methods + Figure 1I):
+  - 
+
+
+
+
