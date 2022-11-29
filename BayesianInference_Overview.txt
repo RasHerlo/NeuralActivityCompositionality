@@ -1,0 +1,5 @@
+
+#1 Pattern Completion Analysis (Conditioned Random Fields, CRF)
+
+#2 Bayesian Overlap (Venn, by Samuel Kubler @ Inst. Pasteur)
+
