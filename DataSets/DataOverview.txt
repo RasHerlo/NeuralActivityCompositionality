@@ -4,8 +4,38 @@ Overview of the included DataSet structures:
 #1 Rast_M4467_211130_ISgN
 
 PFC - recordings
+Ca-imaging (GCaMP6s, 10Hz, 5 layers) 
 Acquired by: Rasmus Herlo
 Behaviour: VisStim + AirPuff
 Date: 211130
 Extra Notes: 
+
+#2 PFC-ensembles during learning (integration of information)
+
+Acquired by: Sandra Reinert, Inst. Max-Planck in Munich
+- https://www.nature.com/articles/s41586-021-03452-z
+
+#3 PFC-ensembles, general fear and specific aversive behaviors
+
+Acquired by: Mario (Cyril Herry Lab), INSERM, Bordeaux
+- Carrier Freq.?
+- Integration of sub-information to general state?
+
+#4 PFC-ensembles, Exploration-Switch, Active Inference(?)
+
+Acquired by:Amaia Diego (David Woldbye Lab), PANUM, Copenhagen
+
+#5 Astrocytes + PFC state and ensemble dynamics
+
+Acquired by: Camilla Vo (Hajime Hirase Lab), CTN, Copenhagen
+
+#6 Whole-Brain state changes in Zebrafish Larvae
+
+Acquired by: Emmanuel Marquez-Legorreta (Ethan Scott Lab), Queensland Brain Institute, Brisbane (Melbourne)
+
+Article: Brain-wide visual habituation networks in wild type and fmr1 zebrafish
+DOI: https://doi.org/10.1038/s41467-022-28299-4
+
+
+
 
