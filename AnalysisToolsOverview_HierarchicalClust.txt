@@ -1,7 +1,23 @@
 
-#1 Ward:
+OBS:
 
-#2 Cosine:
+- inbuilt in MatLab with: 
+
+- inbulit in python's scikit-learn package:
+"from sklearn.cluster import AgglomerativeClustering"
+[https://scikit-learn.org/stable/auto_examples/cluster/plot_agglomerative_clustering_metrics.html]
+
+#1 Agglomerative Hierarchical Clustering by Ward Linkage:
+
+- https://en.wikipedia.org/wiki/Ward%27s_method
+
+GitHub:
+- https://jbhender.github.io/Stats506/F18/GP/Group10.html
+
+#2 Agglomerative clustering by Cosine Similarity:
+
+- See usage in Luis' 2019-paper:
+- https://www.sciencedirect.com/science/article/pii/S0092867419306166?via%3Dihub
 
 #3 Euclidean:
 
