@@ -1,5 +1,16 @@
 
+
 #1 Pattern Completion Analysis (Conditioned Random Fields, CRF)
 
+- Journal of Neuroscience paper:
+- https://www.jneurosci.org/content/41/41/8577
+
+Forked from Darik O'Neill:
+- https://github.com/RasHerlo/Identification-of-Pattern-Completion-Neurons
+
 #2 Bayesian Overlap (Venn, by Samuel Kubler @ Inst. Pasteur)
+
+Correspondance initiated, to be updated:
+"Samuel KUBLER <samuel.kubler@pasteur.fr>
+
 
