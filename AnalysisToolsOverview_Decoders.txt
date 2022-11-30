@@ -1,4 +1,12 @@
 
+
+To be explored....
+
+
+
 #1 Linear SVM decoder
 
 #2 Recurrent Variational Decoder
+
+
+
