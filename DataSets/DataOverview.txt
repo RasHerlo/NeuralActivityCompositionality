@@ -15,6 +15,9 @@ Extra Notes:
 Acquired by: Sandra Reinert, Inst. Max-Planck in Munich
 - https://www.nature.com/articles/s41586-021-03452-z
 
+Available Data:
+- https://gin.g-node.org/sreinert/Category-learning_mPFC
+
 #3 PFC-ensembles, general fear and specific aversive behaviors
 
 Acquired by: Mario (Cyril Herry Lab), INSERM, Bordeaux
@@ -33,9 +36,17 @@ Acquired by: Camilla Vo (Hajime Hirase Lab), CTN, Copenhagen
 
 Acquired by: Emmanuel Marquez-Legorreta (Ethan Scott Lab), Queensland Brain Institute, Brisbane (Melbourne)
 
-Article: Brain-wide visual habituation networks in wild type and fmr1 zebrafish
-DOI: https://doi.org/10.1038/s41467-022-28299-4
+Article: Brain-wide visual habituation networks in wild type and fmr1 zebrafish, 2020
+- DOI: https://doi.org/10.1038/s41467-022-28299-4
 
+Dataset:
+- https://espace.library.uq.edu.au/view/UQ:9549fdc
 
+# Whole-Brain State changes in Zebrafish Larvae (Astrocytic and Neural Ca2+)
 
+Article: Mu et al. 2019, Cell (Ahrens lab)
+- https://www.sciencedirect.com/science/article/pii/S009286741930621X?via%3Dihub
 
+Code & Data Availability (Only a single example available in h5-format):
+- https://github.com/mikarubi/voluseg
+- https://www.dropbox.com/sh/psrj9lusohj7epu/AAAbj8Jbb3o__pyKTTDxPvIKa?dl=0
