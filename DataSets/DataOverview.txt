@@ -1,7 +1,7 @@
 
 Overview of the included DataSet structures:
 
-#1 Rast_M4467_211130_ISgN
+#1a Rast_M4467_211130_ISgN
 
 PFC - recordings
 Ca-imaging (GCaMP6s, 10Hz, 5 layers) 
@@ -9,6 +9,10 @@ Acquired by: Rasmus Herlo
 Behaviour: VisStim + AirPuff
 Date: 211130
 Extra Notes: 
+
+#1b Alternative Regions from Yuste Lab:
+
+VC, AC, SSC, HC
 
 #2 PFC-ensembles during learning (integration of information)
 
