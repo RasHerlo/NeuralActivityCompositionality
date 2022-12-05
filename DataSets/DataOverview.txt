@@ -54,3 +54,16 @@ Article: Mu et al. 2019, Cell (Ahrens lab)
 Code & Data Availability (Only a single example available in h5-format):
 - https://github.com/mikarubi/voluseg
 - https://www.dropbox.com/sh/psrj9lusohj7epu/AAAbj8Jbb3o__pyKTTDxPvIKa?dl=0
+
+#7a+b Astrocytic dynamics with arousal states
+
+Michael Reitman: Pupil Dilation correlation
+- Motor Cortex?
+
+Katharina Merten: Motor Cortex
+https://www.biorxiv.org/content/10.1101/2021.10.09.463784v1
+
+
+
+
+
