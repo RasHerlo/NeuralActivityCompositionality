@@ -1,6 +1,9 @@
 
 Dimensionality Reduction Algorithms:
 
+OBS: Initial approach - compare the variance capture by the individual components with either analysis method (!) - "# components" vs. "Residual Variance"
+- enables us to evaluate the applicability of either analysis approach for each dataset
+
 
 OVERVIEW REVIEWED IN:
 - Cunningham et Yu, 2014, Nat Neurosci.
@@ -86,6 +89,8 @@ https://github.com/MouseLand/stringer-pachitariu-et-al-2018b/blob/79850dba7a4e66
 - SVCA method (see Methods + Figure 1I):
   - [Shared variance component analysis]
   - "The SVCA method gives an asymptotically unbiased lower-bound estimate for the amount of a neural population’s variance reliably encoding a latent signal."
+
+#7 ISOMAP (see Yuriv's Dim.Red.)
 
 
 
